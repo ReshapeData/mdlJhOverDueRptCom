@@ -9,11 +9,12 @@ tabItem(tabName = "mdlJhOverDueRptCom",
                                     #以上为注册ui组件的内容-----
                                     #begin----
                                     #uiComponent seperated by comma (,)
-                                    mdlDemoUI::dateUI(),
-                                     mdlDemoUI::buttonUI(),
-                                     mdlDemoUI::textUI()
-                                     
-                                    
+                                    mdlJhOverDueRptUI::organizationUI(),
+                                    mdlJhOverDueRptUI::customerUI(),
+                                    mdlJhOverDueRptUI::researchUI(),
+                                    mdlJhOverDueRptUI::dateUI(),
+                                    mdlJhOverDueRptUI::noteUI(),
+                                    mdlJhOverDueRptUI::dayUI()
                                     
                                     #end----
                                     
